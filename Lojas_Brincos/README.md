@@ -18,7 +18,7 @@
 
 Garanta que o ambiente esteja configurado e que todas as dependências necessárias estejam disponíveis. 
 
-[Ambiente para rodar PHP](https://github.com/BiancaMalta/PHP/README.md)
+[Ambiente para rodar PHP](https://github.com/BiancaMalta/PHP/blob/main/README.md)
 
 ## Execução 
 
