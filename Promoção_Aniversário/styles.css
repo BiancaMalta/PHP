@@ -1,0 +1,57 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.w3-container {
+    padding: 20px;
+}
+
+h2, h3 {
+    color: #333;
+}
+
+p {
+    font-size: 16px;
+    color: #555;
+}
+
+/* Estilo geral para resultados */
+.result-container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #26a69a;
+    border-radius: 5px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e0f7fa;
+    color: #00796b;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilo específico para cabeçalho da promoção */
+.promotion-header {
+    color: #d32f2f;
+    font-size: 20px; /* Tamanho da fonte aumentado */
+    margin-bottom: 10px;
+    text-align: left; /* Alinhamento à esquerda */
+}
+
+/* Estilo específico para detalhes de economia */
+.economy-details {
+    margin-top: 15px;
+    font-size: 16px; /* Tamanho da fonte ajustado */
+    text-align: left; /* Alinhamento à esquerda */
+    color: #388e3c;
+}
+
+/* Estilo quando não há desconto */
+.no-discount .result-container {
+    background-color: #e0f7fa;
+    color: #00796b;
+}
+
+.no-discount-details {
+    color: #ff5722; /* Laranja para indicar ausência de desconto */
+}
