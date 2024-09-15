@@ -1,0 +1,16 @@
+body {
+    padding-top: 20px;
+  }
+  
+  .container {
+    max-width: 800px;
+  }
+  
+  .btn-custom {
+    margin-top: 20px;
+  }
+  
+  .alert-custom {
+    margin-bottom: 20px;
+  }
+  
