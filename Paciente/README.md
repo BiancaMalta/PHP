@@ -8,8 +8,6 @@ Esta atividade teve como foco a aplicação dos fundamentos da Programação Ori
 
 Além disso, a execução do script demonstrou que os dados do paciente puderam ser manipulados corretamente, o que comprova que a estrutura da classe foi bem implementada e atende ao objetivo da proposta.
 
-Claro! Vou te explicar como os métodos **getters** e **setters** funcionam na prática, de forma clara e aplicada ao seu código da classe `Paciente`. Bora lá:
-
 
 ## 👩‍⚕️ A Classe `Paciente`
 
