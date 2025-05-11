@@ -200,9 +200,6 @@ http-equiv="X-UA-Compatible" content="ie=edge">
     </thead>
 
     
-    <?php
-    ?>
-
 
   </table>
 </div>
